@@ -1,0 +1,14 @@
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader\bin\Debug\netcoreapp2.2\Gist.RabbitMQ.Reader.deps.json
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader\bin\Debug\netcoreapp2.2\Gist.RabbitMQ.Reader.runtimeconfig.json
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader\bin\Debug\netcoreapp2.2\Gist.RabbitMQ.Reader.runtimeconfig.dev.json
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader\bin\Debug\netcoreapp2.2\Gist.RabbitMQ.Reader.dll
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader\bin\Debug\netcoreapp2.2\Gist.RabbitMQ.Reader.pdb
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader\bin\Debug\netcoreapp2.2\Gist.RabbitMQ.Core.dll
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader\bin\Debug\netcoreapp2.2\Gist.RabbitMQ.Core.pdb
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.Reader.csprojAssemblyReference.cache
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.Reader.csproj.CoreCompileInputs.cache
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.Reader.AssemblyInfoInputs.cache
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.Reader.AssemblyInfo.cs
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.Reader.csproj.CopyComplete
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.Reader.dll
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.Reader.pdb

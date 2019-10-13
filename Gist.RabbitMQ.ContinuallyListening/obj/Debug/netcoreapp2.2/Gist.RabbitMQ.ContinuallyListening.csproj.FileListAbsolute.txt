@@ -1,0 +1,14 @@
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.ContinuallyListening\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.ContinuallyListening.csprojAssemblyReference.cache
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.ContinuallyListening\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.ContinuallyListening.csproj.CoreCompileInputs.cache
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.ContinuallyListening\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.ContinuallyListening.AssemblyInfoInputs.cache
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.ContinuallyListening\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.ContinuallyListening.AssemblyInfo.cs
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.ContinuallyListening\bin\Debug\netcoreapp2.2\Gist.RabbitMQ.ContinuallyListening.deps.json
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.ContinuallyListening\bin\Debug\netcoreapp2.2\Gist.RabbitMQ.ContinuallyListening.runtimeconfig.json
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.ContinuallyListening\bin\Debug\netcoreapp2.2\Gist.RabbitMQ.ContinuallyListening.runtimeconfig.dev.json
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.ContinuallyListening\bin\Debug\netcoreapp2.2\Gist.RabbitMQ.ContinuallyListening.dll
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.ContinuallyListening\bin\Debug\netcoreapp2.2\Gist.RabbitMQ.ContinuallyListening.pdb
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.ContinuallyListening\bin\Debug\netcoreapp2.2\Gist.RabbitMQ.Core.dll
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.ContinuallyListening\bin\Debug\netcoreapp2.2\Gist.RabbitMQ.Core.pdb
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.ContinuallyListening\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.ContinuallyListening.csproj.CopyComplete
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.ContinuallyListening\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.ContinuallyListening.dll
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.ContinuallyListening\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.ContinuallyListening.pdb

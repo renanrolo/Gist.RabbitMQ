@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Repos\\Gist.RabbitMQ\\Gist.RabbitMQ.Reader.DeadLetter\\Gist.RabbitMQ.Reader.DeadLetter.csproj": {}
+  },
+  "projects": {
+    "E:\\Repos\\Gist.RabbitMQ\\Gist.RabbitMQ.Core\\Gist.RabbitMQ.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Repos\\Gist.RabbitMQ\\Gist.RabbitMQ.Core\\Gist.RabbitMQ.Core.csproj",
+        "projectName": "Gist.RabbitMQ.Core",
+        "projectPath": "E:\\Repos\\Gist.RabbitMQ\\Gist.RabbitMQ.Core\\Gist.RabbitMQ.Core.csproj",
+        "packagesPath": "C:\\Users\\Rolo\\.nuget\\packages\\",
+        "outputPath": "E:\\Repos\\Gist.RabbitMQ\\Gist.RabbitMQ.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rolo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget-core.devneon.com.br:81/nuget/": {},
+          "http://nuget.devneon.com.br/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\Repos\\Gist.RabbitMQ\\Gist.RabbitMQ.Reader.DeadLetter\\Gist.RabbitMQ.Reader.DeadLetter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Repos\\Gist.RabbitMQ\\Gist.RabbitMQ.Reader.DeadLetter\\Gist.RabbitMQ.Reader.DeadLetter.csproj",
+        "projectName": "Gist.RabbitMQ.Reader.DeadLetter",
+        "projectPath": "E:\\Repos\\Gist.RabbitMQ\\Gist.RabbitMQ.Reader.DeadLetter\\Gist.RabbitMQ.Reader.DeadLetter.csproj",
+        "packagesPath": "C:\\Users\\Rolo\\.nuget\\packages\\",
+        "outputPath": "E:\\Repos\\Gist.RabbitMQ\\Gist.RabbitMQ.Reader.DeadLetter\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rolo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget-core.devneon.com.br:81/nuget/": {},
+          "http://nuget.devneon.com.br/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "E:\\Repos\\Gist.RabbitMQ\\Gist.RabbitMQ.Core\\Gist.RabbitMQ.Core.csproj": {
+                "projectPath": "E:\\Repos\\Gist.RabbitMQ\\Gist.RabbitMQ.Core\\Gist.RabbitMQ.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

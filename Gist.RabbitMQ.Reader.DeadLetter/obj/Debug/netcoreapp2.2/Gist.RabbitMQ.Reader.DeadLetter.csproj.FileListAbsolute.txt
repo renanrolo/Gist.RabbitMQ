@@ -1,0 +1,14 @@
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader.DeadLetter\bin\Debug\netcoreapp2.2\Gist.RabbitMQ.Reader.DeadLetter.deps.json
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader.DeadLetter\bin\Debug\netcoreapp2.2\Gist.RabbitMQ.Reader.DeadLetter.runtimeconfig.json
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader.DeadLetter\bin\Debug\netcoreapp2.2\Gist.RabbitMQ.Reader.DeadLetter.runtimeconfig.dev.json
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader.DeadLetter\bin\Debug\netcoreapp2.2\Gist.RabbitMQ.Reader.DeadLetter.dll
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader.DeadLetter\bin\Debug\netcoreapp2.2\Gist.RabbitMQ.Reader.DeadLetter.pdb
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader.DeadLetter\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.Reader.DeadLetter.csproj.CoreCompileInputs.cache
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader.DeadLetter\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.Reader.DeadLetter.AssemblyInfoInputs.cache
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader.DeadLetter\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.Reader.DeadLetter.AssemblyInfo.cs
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader.DeadLetter\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.Reader.DeadLetter.dll
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader.DeadLetter\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.Reader.DeadLetter.pdb
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader.DeadLetter\bin\Debug\netcoreapp2.2\Gist.RabbitMQ.Core.dll
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader.DeadLetter\bin\Debug\netcoreapp2.2\Gist.RabbitMQ.Core.pdb
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader.DeadLetter\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.Reader.DeadLetter.csprojAssemblyReference.cache
+E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Reader.DeadLetter\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.Reader.DeadLetter.csproj.CopyComplete
