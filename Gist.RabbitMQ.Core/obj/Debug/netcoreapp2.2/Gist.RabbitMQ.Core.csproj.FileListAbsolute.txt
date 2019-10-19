@@ -1,9 +1,0 @@
-E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Core\bin\Debug\netcoreapp2.2\Gist.RabbitMQ.Core.deps.json
-E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Core\bin\Debug\netcoreapp2.2\Gist.RabbitMQ.Core.dll
-E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Core\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.Core.csproj.CoreCompileInputs.cache
-E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Core\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.Core.AssemblyInfoInputs.cache
-E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Core\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.Core.AssemblyInfo.cs
-E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Core\bin\Debug\netcoreapp2.2\Gist.RabbitMQ.Core.pdb
-E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Core\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.Core.csprojAssemblyReference.cache
-E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Core\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.Core.dll
-E:\Repos\Gist.RabbitMQ\Gist.RabbitMQ.Core\obj\Debug\netcoreapp2.2\Gist.RabbitMQ.Core.pdb
