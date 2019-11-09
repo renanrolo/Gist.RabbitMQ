@@ -1,6 +1,7 @@
 ﻿using Gist.RabbitMQ.Core.Tools;
 using Newtonsoft.Json;
 using RabbitMQ.Client;
+using RabbitMQ.Client.Events;
 using System;
 using System.Collections;
 using System.Text;
@@ -88,7 +89,6 @@ namespace Gist.RabbitMQ.Core
             }
         }
 
-
         public void Push(string queueName, object data)
         {
             Chanel.ConfirmSelect();
@@ -109,6 +109,25 @@ namespace Gist.RabbitMQ.Core
 
             Chanel.WaitForConfirmsOrDie();
             Chanel.WaitForConfirms();
+        }
+
+        public void KeepListening<T>(string queueName, Action<T> callback)
+        {
+            var consumer = new EventingBasicConsumer(Chanel);
+
+            //Get one message at time. That's good for more than one consumer per queue.
+            Chanel.BasicQos(0, 1, false);
+
+            consumer.Received += (model, ea) =>
+            {
+                T message = RabbitMQExtended.DeserializeResponse<T>(ea.Body);
+                callback(message);
+                Chanel.BasicAck(ea.DeliveryTag, false);
+            };
+
+            Chanel.BasicConsume(queue: queueName,
+                                autoAck: false,
+                                consumer: consumer);
         }
 
     }

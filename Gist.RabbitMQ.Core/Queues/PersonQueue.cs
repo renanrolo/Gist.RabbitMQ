@@ -29,6 +29,11 @@ namespace Gist.RabbitMQ.Core.Queues
             QueueUow.ReadQueue<Person>(QueueName, callback);
         }
 
+        public void KeepListening(Action<Person> callback)
+        {
+            QueueUow.KeepListening<Person>(QueueName, callback);
+        }
+
         public void Push(Person person)
         {
             QueueUow.Push(QueueName, person);
