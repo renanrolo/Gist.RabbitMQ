@@ -78,27 +78,16 @@ namespace Gist.RabbitMQ.Core
 
         public void ReadQueue<T>(string queueName, Action<T> callback)
         {
-            bool keepReading = true;
-
-            do
+            while (Chanel.BasicGet(queueName, false) is BasicGetResult response && response != null)
             {
-                BasicGetResult response = Chanel.BasicGet(queueName, false);
+                T message = RabbitMQExtended.DeserializeResponse<T>(response.Body);
 
-                if (response != null)
-                {
-                    T message = RabbitMQExtended.DeserializeResponse<T>(response.Body);
+                callback(message);
 
-                    callback(message);
-
-                    Chanel.BasicAck(response.DeliveryTag, false);
-                }
-                else
-                {
-                    keepReading = false;
-                }
-
-            } while (keepReading);
+                Chanel.BasicAck(response.DeliveryTag, false);
+            }
         }
+
 
         public void Push(string queueName, object data)
         {
