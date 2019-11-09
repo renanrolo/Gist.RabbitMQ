@@ -1,6 +1,11 @@
 # Gist.RabbitMQ
 Simple project to see the gist of RabbitMQ package
 
+* How to use RabbitMq on .net core
+* Segregate od Duties:
+    * Unity of Work class is responsable for connectivity.
+    * Queues classes are responsible for create its on queue, consume and publish messages.
+
 #### libs
 ```
 using Newtonsoft.Json;
